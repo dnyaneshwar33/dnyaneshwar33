@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dnyaneshwar33
-- 👀 I’m interested in Front End & Data analytics
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Web devlopement & Data analytics
+- 🌱 I’m currently learning MERN stack
 
 
 <!---
