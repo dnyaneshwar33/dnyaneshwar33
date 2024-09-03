@@ -34,8 +34,8 @@ I'm a passionate software developer with a Bachelor's degree in Computer Enginee
 ## 📝 Projects
 
 Here are some of the projects I've worked on:
-- **[InvoiceMaster - Organization Invoice Management System](https://github.com/dnyaneshwar33/InvoiceMaster):** A tool for managing invoices, clients, and payments.
-- **[Shift Tracking Module](https://github.com/dnyaneshwar33/Shift-Tracking-Module):** A module for managing and tracking employee shifts.
+- **[InvoiceMaster - Organization Invoice Management System]((https://github.com/dnyaneshwar33/organization-invoice-management-system.git)):** A tool for managing invoices, clients, and payments.
+- **[Shift Tracking Module]([https://github.com/dnyaneshwar33/Shift-Tracking-Module](https://github.com/dnyaneshwar33/shift-tracking-module.git)):** A module for managing and tracking employee shifts.
 
 Check out more of my projects [here](https://github.com/dnyaneshwar33?tab=repositories).
 
