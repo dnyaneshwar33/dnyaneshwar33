@@ -43,7 +43,7 @@ Check out more of my projects [here](https://github.com/dnyaneshwar33?tab=reposi
 
 ## 📫 How to reach me
 
-- **LinkedIn:** [Dnyaneshwar Vighne](https://www.linkedin.com/in/dnyaneshwar-vighne/)
+- **LinkedIn:** [Dnyaneshwar Vighne](https://www.linkedin.com/in/vighne-dnyaneshwar/)
 - **Email:** vighne3333@gmail.com
 
 ---
