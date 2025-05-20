@@ -1,9 +1,7 @@
 
 # Hi there, I'm Dnyaneshwar Vighne 👋
-- 👀 I’m interested in Web devlopement & Data analytics
-- 🌱 I’m currently learning MERN stack
 
-**Software Developer | Web Developer**
+**Software Developer | Backend Developer**
 
 ---
 
@@ -16,10 +14,9 @@ I'm a passionate software developer with a Bachelor's degree in Computer Enginee
 ## 🛠️ Technologies & Tools
 
 - **Frontend:** HTML5, CSS3, JavaScript, Angular, React
-- **Backend:** Node.js, Express.js, TypeScript, Nest.js
+- **Backend:** Node.js, Express.js, SpringBoot, TypeScript
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **Tools & Platforms:** Git, GitHub, VS Code, Postman, Jupyter, Google Colab
-- **Others:** JSON, Bootstrap, Angular Material
 
 ---
 
@@ -33,17 +30,13 @@ I'm a passionate software developer with a Bachelor's degree in Computer Enginee
 
 ## 📝 Projects
 
-Here are some of the projects I've worked on:
-- **[InvoiceMaster - Organization Invoice Management System]((https://github.com/dnyaneshwar33/organization-invoice-management-system.git)):** A tool for managing invoices, clients, and payments.
-- **[Shift Tracking Module]([https://github.com/dnyaneshwar33/Shift-Tracking-Module](https://github.com/dnyaneshwar33/shift-tracking-module.git)):** A module for managing and tracking employee shifts.
-
 Check out more of my projects [here](https://github.com/dnyaneshwar33?tab=repositories).
 
 ---
 
 ## 📫 How to reach me
 
-- **LinkedIn:** [Dnyaneshwar Vighne](https://www.linkedin.com/in/vighne-dnyaneshwar/)
+- **LinkedIn:** [Dnyaneshwar Vighne](https://www.linkedin.com/in/dnyaneshwar-vighne/)
 - **Email:** vighne3333@gmail.com
 
 ---
